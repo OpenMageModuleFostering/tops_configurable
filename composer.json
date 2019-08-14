@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Tops_configurable",
+    "type": "magento-module",
+    "license": "GPL-3.0",
+    "homepage": "",
+    "description": "This extension is to make configurable products via api",
+    "authors": [
+    {
+        "name": "Tops",
+        "email": "chirag.thakkar@tops-int.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

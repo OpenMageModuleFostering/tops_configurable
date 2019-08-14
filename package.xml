@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Tops_configurable</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>GPL 3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This extension is to make configurable products via api</summary>
+    <description>Magento provides api for creating simple products and creating configurable products but magento will not associate simple products with configurable products but by using this extension you can do it by passing array of association to magento api</description>
+    <notes>Stable Version</notes>
+    <authors><author><name>Tops</name><user>Tops</user><email>chirag.thakkar@tops-int.com</email></author></authors>
+    <date>2015-05-14</date>
+    <time>07:17:47</time>
+    <contents></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
